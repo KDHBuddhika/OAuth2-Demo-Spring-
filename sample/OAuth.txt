@@ -1,0 +1,4 @@
+Authorization callback URL= http://localhost:8080/login/oauth2/code/github
+Homepage URL =http://localhost:8080
+Client ID =Ov23lirOQvAEn8LPd9sN
+Client secrets = 869860d5f8696f68a33c298cdbe8e687872cb433
